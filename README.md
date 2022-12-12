@@ -1,7 +1,7 @@
 ## Projects for my studies
 
-### Use Python Django and MongoDB
+### Use Java Spring and Mysql
 
-In this project, I created a service to display the resume of each user, choose the background, the font, the basic information, the experience, the projects and allows you to send a contact email.
+In this project I created rest api with spring, create, update, delete and query record in database.
 
 ![myimg](README/img.png)
